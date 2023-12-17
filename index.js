@@ -16,15 +16,17 @@ function login() {
 
   function register() {
     
-    let isregistered = true;
+    let isregistered= true;
 
     if (isregistered) {
-        alert("you have been Registered");
+        alert("you have been registered");
     } 
     
     else {
 
-        alert("Login failed. Please check your username and password.");
+        alert(" Please check your password.");
     }
 
   }
+
+  
