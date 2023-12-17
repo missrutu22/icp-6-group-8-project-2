@@ -65,8 +65,8 @@ body {
     padding: 14px;
     background-color: red;
     color: white;
-    
-    border-radius: 5px;
+    border:  2px solid black;
+    border-radius: 8px;
     font-size: 22px;
     cursor: pointer;
     font-size: 17px;
