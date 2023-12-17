@@ -1,0 +1,353 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home page</title>
+    <style>
+        body{
+            padding: 0;
+            margin: 0;
+            background-color: black;
+        }
+
+        .name{
+            padding: 20px;
+            color: white;
+            font-family: sans-serif; 
+            font-size: 40px;
+            
+            
+        }
+        .navbar{
+            background-color: rgb(0, 0, 0);
+            height: 220px;
+            width: 100%;
+            margin-top: -22px;
+           
+
+
+        }
+        .main-nav{
+            display: flex;
+            flex-direction: row;
+            margin-top: -260px;
+            padding: 150px;
+            text-align: center;
+            margin-left: 150px;
+            margin-right: 600px;
+           justify-content: space-between;
+        }
+        .nav-1{
+            background-color: rgb(180, 75, 75);
+            border-radius: 100%;
+            font-size: 20px;
+            height: 40px;
+            width: 40px;
+            text-align: center;
+        }
+        
+        .nav-1:hover{
+            background-color: rgb(255, 70, 70);
+            border-radius: 90%;
+            font-size: 20px;
+            height: 40px;
+            width: 40px;
+            text-align: center;
+            box-shadow: 0 0 2px 2px white;    
+        }
+        
+
+        .nav-2{
+            color: white;
+            background-color:  rgb(180, 75, 75);
+            width: 100px;
+            text-align: center;
+            height: 40px;
+            border-radius: 50px;
+            font-size: 20px;
+        }
+
+        .nav-2:hover{
+           
+            background-color: rgb(248, 68, 2);
+            width: 100px;
+            text-align: center;
+            height: 40px;
+            border-radius: 40px;
+            font-size: 20px;
+            box-shadow:  0 0 2px 2px white;
+        }
+        .nav-3{
+            color: white;
+            background-color: rgb(180, 75, 75);
+            height: 40px;
+            width: 100px;
+            border-radius: 50px;
+            text-align: center;
+            font-size: 20px;
+        }
+
+        .nav-3:hover{
+            color: white;
+            background-color: rgb(248, 68, 2);
+            height: 40px;
+            width: 100px;
+            border-radius: 40px;
+            text-align: center;
+            font-size: 20px;
+            box-shadow: 0 0 2px 2px white;
+        }
+        .nav-4{
+            color: white;
+            background-color:rgb(180, 75, 75);
+            height: 40px;
+            width: 130px;
+            border-radius: 50px;
+            text-align: center;
+            font-size: 20px;
+        }
+
+        .nav-4:hover{
+            color: white;
+            background-color: rgb(248, 68, 2);
+            height: 40px;
+            width: 130px;
+            border-radius: 40px;
+            text-align: center;
+            font-size: 20px;
+            box-shadow:  0 0 2px 2px white;
+        }
+
+        
+
+        .main-nav-2{
+            display: flex;
+            flex-direction: row;
+            margin-top: -200px;
+            justify-content: space-between;
+            padding: 80px;
+            margin-left: 100px;
+            margin-right: 100px;
+            
+            
+        }
+
+        .images{
+            height: 40px;
+        }
+
+        .images:hover{
+            height: 45px;
+            box-shadow: 0 0 3px 3px rgb(255, 252, 252);
+        }
+
+        .line{
+            position: relative;
+            bottom: 130px;
+        }
+
+        .start-img{
+           
+            
+            height: 500px;
+            width: 100%;
+           }
+
+           .h1{
+            color: white;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            font-size: 40px;
+            position: relative;
+           top: 10px;
+           left: 30px;
+
+           }
+       
+           .rp{
+            height: 200px;
+            width: 200px;
+           }
+
+           .rp-img{
+            display: flex;
+            flex-direction: row;
+            margin-left: 60px;
+            margin-right: 60px;
+            justify-content: space-between;
+           }
+    </style>
+</head>
+<body>
+    <div class="navbar">
+       <h1 class="name"><i>SoundHound</i></h1><br>
+      
+     
+       <div class="main-nav">
+       
+       <button class="nav-1"><b>S</b></button>
+       
+       <button class="nav-2"><b>All</b></button>
+       
+       <button class="nav-3"><b>Music</b></button>
+       
+       <button class="nav-4"><b>Podcasts</b></button>
+    </div>
+   <hr class="line">
+
+    <div class="main-nav-2">
+        <div>
+            <img src="home.png" class="images"><br>
+            <span style="color: white; position: relative; top: 7px;">Home</span>
+        </div>
+        <div>
+            <img src="search-interface-symbol.png" class="images"><br>
+            <span style="color: white; position: relative; top: 7px;">Search</span>
+        </div>
+        <div>
+            <img src="music-album.png" class="images"><br>
+            <span style="color: white; position: relative; top: 7px;">library</span>
+        </div>
+
+    </div>
+</div>
+    
+
+    <div class="start-img">
+        <img src="maxresdefault.jpg" style="height: 500px; width: 1300px; position: relative; top: 0px; margin-left: 110px;">
+    </div>
+
+    <div>
+        <p class="h1">Recently Played</p>
+        <div class="rp-img">
+            <div>
+                <img src="105895788_300x300.jpg" class="rp">
+                <p style="color: white; font-weight: bold; font-size: 15px; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;">ANIMAL</p>
+                <p style="color: rgb(172, 170, 170); position: relative; bottom: 10px;">Album . Arijit</p>
+                
+            </div>
+            <div>
+                <img src="rp-3.jpeg" class="rp">
+                <p style="color: white; font-weight: bold; font-size: 15px; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;">Chichhore</p>
+                <p style="color: rgb(172, 170, 170); position: relative; bottom: 10px;">Album . Pritam </p>
+            </div>
+            <div>
+                <img src="rp-1.jpeg" class="rp">
+                <p style="color: white; font-weight: bold; font-size: 15px; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;">Tu Jhooti me makkar</p>
+                <p style="color: rgb(172, 170, 170); position: relative; bottom: 10px;">Album . Maine pi rakhi hai</p>
+            </div>
+            <div>
+                <img src="rp-2.jpeg" class="rp">
+                <p style="color: white; font-weight: bold; font-size: 15px; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;">Hasee To Fasee</p>
+                <p style="color: rgb(172, 170, 170); position: relative; bottom: 10px;">Album . Drama Queen </p>
+            </div>
+
+            <div>
+                <img src="rp-5.jpg" class="rp">
+                <p style="color: white; font-weight: bold; font-size: 15px; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;">Janiye</p>
+                <p style="color: rgb(172, 170, 170); position: relative; bottom: 10px;">Album . Chor Nikal Ke Bhaga</p>
+            </div>
+        </div>
+    </div>
+
+    <div>
+        <p class="h1">Popular Albums</p>
+        <div class="rp-img">
+            <div>
+                <img src="Animal-Film-Duration.webp" class="rp">
+                <p style="color: white; font-weight: bold; font-size: 15px; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;">ANIMAL</p>
+                <p style="color: rgb(172, 170, 170); position: relative; bottom: 10px;"></p>
+                
+            </div>
+            <div>
+                <img src="pa-2.jpeg" class="rp">
+                <p style="color: white; font-weight: bold; font-size: 15px; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;">Tu hai kahan</p>
+                <p style="color: rgb(172, 170, 170); position: relative; bottom: 10px;"> </p>
+            </div>
+            <div>
+                <img src="pa-3.jpg" class="rp">
+                <p style="color: white; font-weight: bold; font-size: 15px; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;">Kabir Singh</p>
+                <p style="color: rgb(172, 170, 170); position: relative; bottom: 10px;"></p>
+            </div>
+            <div>
+                <img src="pa-4.jpg" class="rp">
+                <p style="color: white; font-weight: bold; font-size: 15px; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;">URI</p>
+                <p style="color: rgb(172, 170, 170); position: relative; bottom: 10px;"></p>
+            </div>
+
+            <div>
+                <img src="pa-5.jpg" class="rp">
+                <p style="color: white; font-weight: bold; font-size: 15px; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;">BHRAMHASTRA</p>
+                <p style="color: rgb(172, 170, 170); position: relative; bottom: 10px;"></p>
+            </div>
+        </div>
+    </div>
+
+    <div>
+        <p class="h1">Your Top Mixes</p>
+        <div class="rp-img">
+            <div>
+                <img src="tm-1.jpeg" class="rp">
+                <p style="color: white; font-weight: bold; font-size: 15px; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;">Patola</p>
+                <p style="color: rgb(172, 170, 170); position: relative; bottom: 10px;"></p>
+                
+            </div>
+            <div>
+                <img src="tm-2.jpg" class="rp">
+                <p style="color: white; font-weight: bold; font-size: 15px; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;">Tere Bina</p>
+                <p style="color: rgb(172, 170, 170); position: relative; bottom: 10px;"> </p>
+            </div>
+            <div>
+                <img src="tm-3.jpg" class="rp">
+                <p style="color: white; font-weight: bold; font-size: 15px; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;">One Love</p>
+                <p style="color: rgb(172, 170, 170); position: relative; bottom: 10px;"></p>
+            </div>
+            <div>
+                <img src="tm-4.jpg" class="rp">
+                <p style="color: white; font-weight: bold; font-size: 15px; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;">Sun Sathiyaa</p>
+                <p style="color: rgb(172, 170, 170); position: relative; bottom: 10px;"></p>
+            </div>
+
+            <div>
+                <img src="tm-5.jpg" class="rp">
+                <p style="color: white; font-weight: bold; font-size: 15px; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;">BHARAT</p>
+                <p style="color: rgb(172, 170, 170); position: relative; bottom: 10px;"></p>
+            </div>
+
+        </div>
+    </div>
+
+    <div>
+        <p class="h1">Artist</p>
+        <div class="rp-img">
+            <div>
+                <img src="a-1.jpg" class="rp">
+                <p style="color: white; font-weight: bold; font-size: 15px; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;">Arijit Singh</p>
+                <p style="color: rgb(172, 170, 170); position: relative; bottom: 10px;"></p>
+                
+            </div>
+            <div>
+                <img src="a-2.jpeg" class="rp">
+                <p style="color: white; font-weight: bold; font-size: 15px; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;">AP Dhillon</p>
+                <p style="color: rgb(172, 170, 170); position: relative; bottom: 10px;"> </p>
+            </div>
+            <div>
+                <img src="a-3.jpg" class="rp">
+                <p style="color: white; font-weight: bold; font-size: 15px; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;">Shubh</p>
+                <p style="color: rgb(172, 170, 170); position: relative; bottom: 10px;"></p>
+            </div>
+            <div>
+                <img src="a-4.jpg" class="rp">
+                <p style="color: white; font-weight: bold; font-size: 15px; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;">Asses Kaur</p>
+                <p style="color: rgb(172, 170, 170); position: relative; bottom: 10px;"></p>
+            </div>
+
+            <div>
+                <img src="a-5.jpg" class="rp">
+                <p style="color: white; font-weight: bold; font-size: 15px; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;">Neha Kakkar</p>
+                <p style="color: rgb(172, 170, 170); position: relative; bottom: 10px;"></p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
