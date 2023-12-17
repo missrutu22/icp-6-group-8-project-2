@@ -12,9 +12,9 @@ body {
     margin-top: 70px;
     padding: 10px;
     border-radius: 20px;
-    border-top: 6px solid rgb(250, 49, 49);
-    border-bottom: 4px solid rgb(250, 49, 49);
-    border-left: 4px solid  rgb(250, 49, 49);   
+    border-top: 7px solid rgb(250, 49, 49);
+    border-bottom: 5px solid rgb(250, 49, 49);
+    border-left: 3px solid  rgb(250, 49, 49);   
     border-right: 4px solid   rgb(250, 49, 49);
     box-shadow: 4px 5px 2px 1px  rgb(250, 49, 49);
 
