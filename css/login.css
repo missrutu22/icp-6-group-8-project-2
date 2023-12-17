@@ -1,5 +1,5 @@
 body {
-    background-color: #808080;
+    background-color: black;
     margin: 0px;
 } 
 
@@ -12,11 +12,11 @@ body {
     margin-top: 70px;
     padding: 10px;
     border-radius: 20px;
-    border-top: 9px solid #595959;
-    border-bottom: 4px solid #595959;
-    border-left: 4px solid   #595959 ;
-    border-right: 4px solid  #595959;
-    box-shadow: 4px 6px 2px 1px #595959;
+    border-top: 6px solid rgb(250, 49, 49);
+    border-bottom: 4px solid rgb(250, 49, 49);
+    border-left: 4px solid  rgb(250, 49, 49);   
+    border-right: 4px solid   rgb(250, 49, 49);
+    box-shadow: 4px 5px 2px 1px  rgb(250, 49, 49);
 
 }
 
@@ -39,6 +39,8 @@ body {
     margin-top: 10px;
     padding-top: 10px;
     margin-left: 6px;
+    font-weight: bold;
+
 }
 
 .login-email {
@@ -64,13 +66,12 @@ body {
     margin-left: auto;
     margin-right: auto;
     display: block;
-    background-color: #8c8c8c;
+    background-color: red;
     color: white;
     width: 250px;
     height: 45px;
-    border-radius: 6px;
+    border-radius: 8px;
     font-size: 21px;
-    border: none;
     cursor: pointer;
     padding: 11px;
 
@@ -79,7 +80,9 @@ body {
 .login-button:hover {
     width: 255px;
     height: 47px;
-    background-color: #808080;
+    background-color: white;
+    color: red;
+    
 }
 
 .another-login {
