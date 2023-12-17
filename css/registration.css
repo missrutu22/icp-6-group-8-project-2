@@ -63,9 +63,9 @@ body {
 .register-btn {
     width: 136px;
     padding: 14px;
-    background-color: #8c8c8c;
+    background-color: red;
     color: white;
-    border: none;
+    
     border-radius: 5px;
     font-size: 22px;
     cursor: pointer;
@@ -76,7 +76,8 @@ body {
 }
 
 .register-btn:hover {
-    background-color:#808080 ;
+    background-color:white ;
+    color: red;
     width: 138px;
     height: 48px;
 }
