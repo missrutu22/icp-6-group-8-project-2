@@ -93,3 +93,7 @@ body {
     color:red;
     cursor: pointer;
 }
+
+.login:hover{
+    font-size: 17px;
+}
