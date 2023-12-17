@@ -9,7 +9,7 @@
 
 body {
     font-family: Arial, sans-serif;
-    background-color:  #808080;
+    background-color:  black;
     margin: 0;
     padding: 0;
 
@@ -25,11 +25,11 @@ body {
     padding: 15px;
     background-color: #fff;
     border-radius: 20px;
-    border-top:  9px solid #595959;
-    border-bottom: 2px solid #595959;
-    border-left: 2px solid #595959;
-    border-right: 2px solid #595959;
-    box-shadow: 5px 7px 2px 1px #595959;
+    border-top:  7px solid red;
+    border-bottom: 4px solid red;
+    border-left: 2px solid red;
+    border-right: 2px solid red;
+    box-shadow: 5px 7px 2px 1px red;
 }
 
 .label {
@@ -63,10 +63,10 @@ body {
 .register-btn {
     width: 136px;
     padding: 14px;
-    background-color: #8c8c8c;
+    background-color: red;
     color: white;
     border: none;
-    border-radius: 5px;
+    border-radius: 8px;
     font-size: 22px;
     cursor: pointer;
     font-size: 17px;
@@ -76,7 +76,9 @@ body {
 }
 
 .register-btn:hover {
-    background-color:#808080 ;
+    background-color:white ;
+    border:  2px solid black;
+    color: red;
     width: 138px;
     height: 48px;
 }
@@ -89,5 +91,10 @@ body {
 }
 
 .login {
-    text-decoration: none;
+    color:red;
+    cursor: pointer;
+}
+
+.login:hover{
+    font-size: 17px;
 }

@@ -1,11 +1,30 @@
-<!DOCTYPE>
-<html>
-  <head>
-    <title>INDEX</title>
-  </head>
-  <body><h1>
-   <h2> hello </h2>
-  </h1>
+
+function login() {
     
-  </body>
-</html>
+    let isLoggedIn = true;
+
+    if (isLoggedIn) {
+        alert("Login successful!");
+    } 
+    
+    else {
+
+        alert("Login failed. Please check your username and password.");
+    }
+
+  }
+
+  function register() {
+    
+    let isregistered = true;
+
+    if (isregistered) {
+        alert("you have been Registered");
+    } 
+    
+    else {
+
+        alert("Login failed. Please check your username and password.");
+    }
+
+  }
