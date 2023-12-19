@@ -4,7 +4,7 @@ function login() {
     let isLoggedIn = true;
 
     if (isLoggedIn) {
-        alert("Login successful!");
+        alert("Log-in Successful !");
     } 
     
     else {
@@ -19,12 +19,12 @@ function login() {
     let isregistered= true;
 
     if (isregistered) {
-        alert("you have been registered");
+        alert("You Have Been Registered Successfully !");
     } 
     
     else {
 
-        alert(" Please check your password.");
+        alert(" Please Check Your Password.");
     }
 
   }
