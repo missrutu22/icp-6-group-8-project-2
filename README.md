@@ -19,10 +19,11 @@ One can explore features like music and podcast in the website. Also there is a 
 <h1>WEBSITE SNEAK-IN :-</h1>
 <h3>Below are some images that show how our website looks like :</h3>
 <br></br>
-<img src="../icp-6-group-8-javascript-project-2/Images/one.png"></br>
-<img src="../icp-6-group-8-javascript-project-2/Images/one.png"></br>
-<img src="../icp-6-group-8-javascript-project-2/Images/one.png"></br>
-<img src="../icp-6-group-8-javascript-project-2/Images/one.png"></br>
-<img src="../icp-6-group-8-javascript-project-2/Images/one.png"></br>
-<img src="../icp-6-group-8-javascript-project-2/Images/one.png"></br>
-<img src="../icp-6-group-8-javascript-project-2/Images/one.png"></br>
+<img src="../icp-6-group-8-javascript-project-2/Images/one.png">1</br>
+<img src="../icp-6-group-8-javascript-project-2/Images/two.png">2</br>
+<img src="../icp-6-group-8-javascript-project-2/Images/three.png">3</br>
+<img src="../icp-6-group-8-javascript-project-2/Images/four.png">4</br>
+<img src="../icp-6-group-8-javascript-project-2/Images/five.png">5</br>
+<img src="../icp-6-group-8-javascript-project-2/Images/six.png">6</br>
+<img src="../icp-6-group-8-javascript-project-2/Images/seven.png">7</br>
+</br></br>
