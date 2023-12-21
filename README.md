@@ -19,10 +19,4 @@ One can explore features like music and podcast in the website. Also there is a 
 <h1>WEBSITE SNEAK-IN :-</h1>
 <h3>Below are some images that show how our website looks like :</h3>
 <br></br>
-![Screenshot 2023-12-21 191246](https://github.com/shreyaa-kar/icp-6-group-8-project-2/assets/147280179/9994c5a5-409c-4319-a437-faa418b54bd4)
-![Screenshot 2023-12-21 191302](https://github.com/shreyaa-kar/icp-6-group-8-project-2/assets/147280179/d51fe740-5bcc-41d4-8df9-3cd1bf66f3ad)
-![Screenshot 2023-12-21 191322](https://github.com/shreyaa-kar/icp-6-group-8-project-2/assets/147280179/2e657ee1-5997-4fd5-b3ee-537db2f70167)
-![Screenshot 2023-12-21 191346](https://github.com/shreyaa-kar/icp-6-group-8-project-2/assets/147280179/11b391a7-9fa5-47ee-ab7a-d842a45c0d22)
-![Screenshot 2023-12-21 191405](https://github.com/shreyaa-kar/icp-6-group-8-project-2/assets/147280179/030736a5-0301-4c47-a59f-0ca11ff64cdc)
-![Screenshot 2023-12-21 191420](https://github.com/shreyaa-kar/icp-6-group-8-project-2/assets/147280179/25f745a1-d8d4-4c0b-889c-adf85bf39e29)
-![Screenshot 2023-12-21 191606](https://github.com/shreyaa-kar/icp-6-group-8-project-2/assets/147280179/42cbc05f-8a11-497d-a986-013b82410a2d)
+![Screenshot 2023-12-21 191246](https://github.com/shreyaa-kar/icp-6-group-8-project-2/assets/147280179/2723da44-a9c3-4af8-9aa2-d8e31422ea2c)
