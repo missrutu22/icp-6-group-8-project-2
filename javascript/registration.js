@@ -1,4 +1,3 @@
-
 function login() {
     
     let isLoggedIn = true;
@@ -28,5 +27,3 @@ function login() {
     }
 
   }
-
-  
