@@ -1,11 +1,17 @@
 body
  {
-    background-color: black;
+    background-image:linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.3)),url(../Images/login-img.jpg);
+    height:auto;
+    background-position: center;
+    background-size: cover;
+
     margin: 0px;
 } 
 
 .login-container {
-    background-color: white;
+    background: transparent;
+    backdrop-filter: blur(50px);
+    color: #fff;
     height: 500px;
     width: 340px;
     margin-left: auto;
@@ -49,7 +55,12 @@ body
     display: block;
     height: 35px;
     width: 300px;
-    border: 1px solid black;
+    border: 2px solid black;
+    border-radius: 10px;
+    background: transparent;
+    backdrop-filter: blur(100px);
+    color: #fff;
+    padding: 0 10px;
 }
 
 .login-password {
@@ -81,8 +92,6 @@ body
 
 .login-button:hover {
     border:  2px solid black;
-    width: 255px;
-    height: 47px;
     background-color: white;
     color: rgb(248, 68, 2);
     
@@ -99,5 +108,5 @@ body
     cursor: pointer;
     height: 40px;
     width:35px;
-    box-shadow: 2px 2px 2px 1px grey ;
+    text-decoration: none;
  }
