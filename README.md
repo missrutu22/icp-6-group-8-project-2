@@ -19,3 +19,10 @@ One can explore features like music and podcast in the website. Also there is a 
 <h1>WEBSITE SNEAK-IN :-</h1>
 <h3>Below are some images that show how our website looks like :</h3>
 <br></br>
+<img src="./ONE.png."  width="28%" height="28%">
+<img src="./TWO.png"  width="28%" height="28%">
+<img src="./THREE.png"  width="28%" height="28%">
+<img src="./FOUR.png"  width="28%" height="28%">
+<img src="./FIVE.png"  width="28%" height="28%">
+</br></br>
+
