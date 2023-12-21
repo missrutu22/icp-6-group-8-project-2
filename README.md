@@ -19,6 +19,7 @@ One can explore features like music and podcast in the website. Also there is a 
 <h1>WEBSITE SNEAK-IN :-</h1>
 <h3>Below are some images that show how our website looks like :</h3>
 <br></br>
+<<<<<<< HEAD
 ![image](../icp-6-group-8-javascript-project-2/Images/one.png)
 ![image](../icp-6-group-8-javascript-project-2/Images/one.png)
 ![image](../icp-6-group-8-javascript-project-2/Images/one.png)
