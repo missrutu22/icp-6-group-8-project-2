@@ -16,3 +16,13 @@ One can explore features like music and podcast in the website. Also there is a 
 6)Easy login and registration</br>
 7)Dark mode for eye protection</br>
 </h3></br></br>
+<h1>WEBSITE SNEAK-IN :-</h1>
+<h3>Below are some images that show how our website looks like :</h3>
+<br></br>
+<img src="../Images/one.png"></br>
+<img src="../Images/two.png"></br>
+<img src="../Images/three.png"></br>
+<img src="../Images/four.png"></br>
+<img src="../Images/five.png"></br>
+<img src="../Images/six.png"></br>
+<img src="../Images/seven.png"></br>
