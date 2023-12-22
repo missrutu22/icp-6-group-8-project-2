@@ -9,9 +9,7 @@ body
 } 
 
 .login-container {
-    background: transparent;
-    backdrop-filter: blur(50px);
-    color: #fff;
+   background-color: #fff;
     height: 500px;
     width: 340px;
     margin-left: auto;
