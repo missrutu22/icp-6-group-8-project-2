@@ -34,9 +34,7 @@ body {
     border-left: 2px solid rgb(248, 68, 2);
     border-right: 2px solid rgb(248, 68, 2);
     box-shadow: 5px 7px 2px 1px rgb(248, 68, 2);
-    background: transparent;
-    backdrop-filter: blur(50px);
-    color: #fff;
+    
 }
 
 .label {
